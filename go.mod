@@ -1,4 +1,4 @@
-module github/tsirysndr/kodirpc
+module github.com/tsirysndr/kodirpc
 
 go 1.16
 
