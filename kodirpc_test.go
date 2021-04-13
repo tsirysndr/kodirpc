@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/sirupsen/logrus"
-	"github.com/pdf/kodirpc"
+	"github.com/tsirysndr/kodirpc"
 )
 
 func ExampleClient() {
